@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Galaxy", "Galaxy\Galaxy.csproj", "{1DB8DA8A-78FB-4E09-ADCB-32B6394F1228}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GalaxyTest", "GalaxyTest\GalaxyTest.csproj", "{5E6D76CF-672C-4158-B0A2-CA11A0BA6524}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DB8DA8A-78FB-4E09-ADCB-32B6394F1228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DB8DA8A-78FB-4E09-ADCB-32B6394F1228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DB8DA8A-78FB-4E09-ADCB-32B6394F1228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DB8DA8A-78FB-4E09-ADCB-32B6394F1228}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E6D76CF-672C-4158-B0A2-CA11A0BA6524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E6D76CF-672C-4158-B0A2-CA11A0BA6524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E6D76CF-672C-4158-B0A2-CA11A0BA6524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E6D76CF-672C-4158-B0A2-CA11A0BA6524}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
